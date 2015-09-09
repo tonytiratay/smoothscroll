@@ -7,7 +7,7 @@ _Ce tutoriel demande des connaissances en jQuery et html_
 
 ## Éatpe 1
 Inclure la bibliothèque jQuery dans votre Head
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+'<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>'
 
 ## Étape 2
 Faites vos ancres (ou si vous avez un trou de mémoire : )
