@@ -17,7 +17,7 @@ Faites vos ancres (ou si vous avez un trou de mémoire : )
 ## Étape 3
 copiez-collez ce code juste avant votrebalise </body>.
 Ou .nomDeVosClasse correspond au nom des classes que vous avez donnez à vos liens
-
+```html
 <script>
 	$(document).ready(function() {
 		$('.nomDeVosClasse').click( function() { // Au clic sur un élément
@@ -28,5 +28,5 @@ Ou .nomDeVosClasse correspond au nom des classes que vous avez donnez à vos lie
 		});
 	});
 </script>
-
+```
 
