@@ -1,8 +1,8 @@
 # smooths croll (défilement fluide) 
 ## en jQuery (et sans plugin ^^)
 
-Vous savez faire des sites "one page" avec des ancres (pour naviguer rapidement) ?␣␣
-Donnez à vos page un côté plus "esthtique" grace au Smooth Scroll.␣␣
+Vous savez faire des sites "one page" avec des ancres (pour naviguer rapidement) ?
+Donnez à vos page un côté plus "esthtique" grace au Smooth Scroll.
 _Ce tutoriel demande des connaissances en jQuery et html_
 
 ## Éatpe 1
