@@ -12,7 +12,7 @@ Inclure la bibliothèque jQuery dans votre Head
 ```
 
 ## Étape 2
-Faites vos ancres (ou si vous avez un trou de mémoire :[ce site est génial](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/creer-des-liens) )
+Faites vos ancres (ou si vous avez un trou de mémoire : [ce site est génial](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/creer-des-liens) )
 
 ## Étape 3
 copiez-collez ce code juste avant votrebalise </body>.
